@@ -1,2 +1,5 @@
 # menu2
-Repo para apps web xd
+Matrícula:         202131664
+Nombre:            Aaron Octavio Morales Valencia
+Fecha:             2024-08-15
+Descripción:       Mi primer repositorio
